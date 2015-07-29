@@ -1,0 +1,12 @@
+Package: decomposenumbers
+Type: Package
+Title: Decompose numbers into their components
+Version: 0.0.1
+Date: 2015-07-29
+Author: Kevin Cazelles [aut, cre]
+Maintainer: Kevin Cazelles <kevin.cazelles@um2.fr>
+Description: Decompose numbers into their components and allow to convert number from one base to another. 
+Depends: R (>= 3.0)
+Imports:
+License: GPL-3
+URL: https://github.com/KevCaz/graphicsutils.git
