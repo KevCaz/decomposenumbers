@@ -16,7 +16,7 @@ Then, load it:
 > library(decomposenumbers)
 
 # License
-The graphicsutils package is licensed under the GPLv3 (http://www.gnu.org/licenses/gpl.html).
+The *decomposenumber* package is licensed under the GPLv3 (http://www.gnu.org/licenses/gpl.html).
 
 # Future direction
 1. I want to implement a new class to deal with *stacks* of *DecomposedNumber* objects.
