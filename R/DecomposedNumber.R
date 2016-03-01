@@ -12,6 +12,7 @@ DecomposedNumber <- function(x, base=NULL){
   stopifnot(base>1&base<37)
   tbnum <- decomposeNumber(x, signout=TRUE)
   if (is.null(base)) {
+    # Intuitive guess
     mx <- max(tbnum$digtable)
     if (mx<"3") base=2
     else if (mx<"a") base=10
